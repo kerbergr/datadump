@@ -1,0 +1,27 @@
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\net5.0\examples\2018.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\net5.0\examples\2020final.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\net5.0\examples\2020org.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\net5.0\examples\new.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\net5.0\examples\newili.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\net5.0\examples\old.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\net5.0\examples\old2.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\net5.0\examples\old3.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\net5.0\examples\oldili.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\net5.0\examples\second2018.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\net5.0\examples\second2020.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\net5.0\examples\X-Collins - New ILI.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\net5.0\examples\X-Collins - Old ILI.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\net5.0\MLCompare.deps.json
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\net5.0\MLCompare.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\net5.0\ref\MLCompare.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\net5.0\MLCompare.pdb
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\obj\Debug\net5.0\MLCompare.csprojAssemblyReference.cache
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\obj\Debug\net5.0\MLCompare.csproj.ResolveComReference.cache
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\obj\Debug\net5.0\MLCompare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\obj\Debug\net5.0\MLCompare.AssemblyInfoInputs.cache
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\obj\Debug\net5.0\MLCompare.AssemblyInfo.cs
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\obj\Debug\net5.0\MLCompare.csproj.CoreCompileInputs.cache
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\obj\Debug\net5.0\MLCompare.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\obj\Debug\net5.0\ref\MLCompare.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\obj\Debug\net5.0\MLCompare.pdb

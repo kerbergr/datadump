@@ -1,0 +1,36 @@
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\obj\Debug\netcoreapp3.1\MLCompare.UICore.csprojAssemblyReference.cache
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\obj\Debug\netcoreapp3.1\MLCompare.UICore.Form1.resources
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\obj\Debug\netcoreapp3.1\MLCompare.UICore.csproj.GenerateResource.cache
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\obj\Debug\netcoreapp3.1\MLCompare.UICore.AssemblyInfoInputs.cache
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\obj\Debug\netcoreapp3.1\MLCompare.UICore.AssemblyInfo.cs
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\obj\Debug\netcoreapp3.1\MLCompare.UICore.csproj.CoreCompileInputs.cache
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\MLCompare.UICore.exe
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\MLCompare.UICore.deps.json
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\MLCompare.UICore.runtimeconfig.json
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\MLCompare.UICore.runtimeconfig.dev.json
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\MLCompare.UICore.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\MLCompare.UICore.pdb
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\obj\Debug\netcoreapp3.1\MLCompare.UICore.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\obj\Debug\netcoreapp3.1\MLCompare.UICore.pdb
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\obj\Debug\netcoreapp3.1\MLCompare.UICore.genruntimeconfig.cache
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\examples\2018.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\examples\2020final.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\examples\2020org.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\examples\new.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\examples\newili.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\examples\old.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\examples\old2.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\examples\old3.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\examples\oldili.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\examples\second2018.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\examples\second2020.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\examples\X-Collins - New ILI.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\examples\X-Collins - Old ILI.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.CommandLineUtils.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\MLCompare.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\MLCompare.pdb
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\obj\Debug\netcoreapp3.1\MLCompare.UICore.csproj.CopyComplete
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare.UICore\obj\Debug\netcoreapp3.1\MLCompare.UICore.Form2.resources

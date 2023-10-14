@@ -1,0 +1,29 @@
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\IlICompare\bin\Debug\netstandard2.0\IlICompare.deps.json
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\IlICompare\bin\Debug\netstandard2.0\IlICompare.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\IlICompare\bin\Debug\netstandard2.0\IlICompare.pdb
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\IlICompare\obj\Debug\netstandard2.0\IlICompare.AssemblyInfoInputs.cache
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\IlICompare\obj\Debug\netstandard2.0\IlICompare.AssemblyInfo.cs
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\IlICompare\obj\Debug\netstandard2.0\IlICompare.csproj.CoreCompileInputs.cache
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\IlICompare\obj\Debug\netstandard2.0\IlICompare.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\IlICompare\obj\Debug\netstandard2.0\IlICompare.pdb
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\IlICompare\obj\Debug\netstandard2.0\IlICompare.csprojAssemblyReference.cache
+C:\Users\kerbergr\Documents\GitHub\MLCompare\IlICompare\bin\Debug\netstandard2.0\IlICompare.deps.json
+C:\Users\kerbergr\Documents\GitHub\MLCompare\IlICompare\bin\Debug\netstandard2.0\IlICompare.dll
+C:\Users\kerbergr\Documents\GitHub\MLCompare\IlICompare\bin\Debug\netstandard2.0\IlICompare.pdb
+C:\Users\kerbergr\Documents\GitHub\MLCompare\IlICompare\obj\Debug\netstandard2.0\IlICompare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerbergr\Documents\GitHub\MLCompare\IlICompare\obj\Debug\netstandard2.0\IlICompare.AssemblyInfoInputs.cache
+C:\Users\kerbergr\Documents\GitHub\MLCompare\IlICompare\obj\Debug\netstandard2.0\IlICompare.AssemblyInfo.cs
+C:\Users\kerbergr\Documents\GitHub\MLCompare\IlICompare\obj\Debug\netstandard2.0\IlICompare.csproj.CoreCompileInputs.cache
+C:\Users\kerbergr\Documents\GitHub\MLCompare\IlICompare\obj\Debug\netstandard2.0\IlICompare.dll
+C:\Users\kerbergr\Documents\GitHub\MLCompare\IlICompare\obj\Debug\netstandard2.0\IlICompare.pdb
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\IlICompare\bin\Debug\netstandard2.0\IlICompare.deps.json
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\IlICompare\bin\Debug\netstandard2.0\IlICompare.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\IlICompare\bin\Debug\netstandard2.0\IlICompare.pdb
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\IlICompare\obj\Debug\netstandard2.0\IlICompare.csproj.AssemblyReference.cache
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\IlICompare\obj\Debug\netstandard2.0\IlICompare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\IlICompare\obj\Debug\netstandard2.0\IlICompare.AssemblyInfoInputs.cache
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\IlICompare\obj\Debug\netstandard2.0\IlICompare.AssemblyInfo.cs
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\IlICompare\obj\Debug\netstandard2.0\IlICompare.csproj.CoreCompileInputs.cache
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\IlICompare\obj\Debug\netstandard2.0\IlICompare.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\IlICompare\obj\Debug\netstandard2.0\IlICompare.pdb
+C:\Users\kerbergr\Documents\GitHub\MLCompare\IlICompare\obj\Debug\netstandard2.0\IlICompare.csproj.AssemblyReference.cache

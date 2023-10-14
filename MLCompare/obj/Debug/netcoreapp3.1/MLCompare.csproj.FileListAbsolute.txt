@@ -1,0 +1,199 @@
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\MLCompare.exe
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.AssemblyInfoInputs.cache
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.AssemblyInfo.cs
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.csproj.CopyComplete
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.csproj.CoreCompileInputs.cache
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\MLCompare.deps.json
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\MLCompare.runtimeconfig.json
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\MLCompare.runtimeconfig.dev.json
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\MLCompare.dll
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\MLCompare.pdb
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\Microsoft.Extensions.CommandLineUtils.dll
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.dll
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.pdb
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.genruntimeconfig.cache
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\newili.csv
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\oldili.csv
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\2018.csv
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\2020org.csv
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\2020final.csv
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\second2018.csv
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\second2020.csv
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.csprojAssemblyReference.cache
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\new.csv
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\old.csv
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\old2.csv
+C:\Users\kerbergr\source\repos\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\old3.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\MLCompare.exe
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\New ILI.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\Old ILI.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\2018.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\2020final.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\2020org.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\New ILI - HB to NS.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\new.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\newili.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\Old ILI - HB to NS.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\old.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\old2.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\old3.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\oldili.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\second2018.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\second2020.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\X-Collins - New ILI.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\X-Collins - Old ILI.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\MLCompare.deps.json
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\MLCompare.runtimeconfig.json
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\MLCompare.runtimeconfig.dev.json
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\MLCompare.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\MLCompare.pdb
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\Microsoft.Extensions.CommandLineUtils.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\IlICompare.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\IlICompare.pdb
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.csprojAssemblyReference.cache
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.csproj.ResolveComReference.cache
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.AssemblyInfoInputs.cache
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.AssemblyInfo.cs
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.csproj.CoreCompileInputs.cache
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.csproj.CopyComplete
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.pdb
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.genruntimeconfig.cache
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\New_June.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\Old_June.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\newdata.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\olddata.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\newaug12.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\oldAug12_final.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\MLCompare.exe
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\New ILI.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\newaug12.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\newdata.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\New_June.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\Old ILI.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\oldAug12_final.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\olddata.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\Old_June.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\2018.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\2020final.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\2020org.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\New ILI - HB to NS.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\new.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\newili.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\Old ILI - HB to NS.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\old.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\old2.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\old3.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\oldili.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\second2018.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\second2020.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\X-Collins - New ILI.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\X-Collins - Old ILI.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\MLCompare.deps.json
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\MLCompare.runtimeconfig.json
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\MLCompare.runtimeconfig.dev.json
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\MLCompare.dll
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\MLCompare.pdb
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\Microsoft.Extensions.CommandLineUtils.dll
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\IlICompare.dll
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\IlICompare.pdb
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.csproj.AssemblyReference.cache
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.csproj.ResolveComReference.cache
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.AssemblyInfoInputs.cache
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.AssemblyInfo.cs
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.csproj.CoreCompileInputs.cache
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.dll
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.pdb
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.genruntimeconfig.cache
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\NewOct.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\oldoct2.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\old4.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex3\newdatafeb.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex3\olddatafeb.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2022\new_Perfect.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2022\Old_CleanedUP.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2022\New ILI.xlsx
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2022\New_ILI_DEC2022.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2022\Old ILI.xlsx
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2022\Old_ILI_DEC2022.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\MLCompare.exe
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2022\New ILI.xlsx
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2022\New_ILI_DEC2022.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2022\new_Perfect.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2022\Old ILI.xlsx
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2022\Old_CleanedUP.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2022\Old_ILI_DEC2022.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\New ILI.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\newaug12.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\newdata.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\NewOct.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\New_June.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\Old ILI.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\old4.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\oldAug12_final.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\olddata.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\oldoct2.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2\Old_June.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex3\newdatafeb.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex3\olddatafeb.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\2018.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\2020final.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\2020org.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\New ILI - HB to NS.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\new.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\newili.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\Old ILI - HB to NS.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\old.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\old2.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\old3.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\oldili.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\second2018.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\second2020.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\X-Collins - New ILI.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\examples\X-Collins - Old ILI.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\MLCompare.deps.json
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\MLCompare.runtimeconfig.json
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\MLCompare.runtimeconfig.dev.json
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\MLCompare.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\MLCompare.pdb
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\Microsoft.Extensions.CommandLineUtils.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\IlICompare.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\IlICompare.pdb
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.csproj.AssemblyReference.cache
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.csproj.ResolveComReference.cache
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.AssemblyInfoInputs.cache
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.AssemblyInfo.cs
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.csproj.CoreCompileInputs.cache
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.csproj.CopyComplete
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.dll
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.pdb
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\obj\Debug\netcoreapp3.1\MLCompare.genruntimeconfig.cache
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2023\newili2023.csv
+C:\Users\kerbergr\OneDrive - UPMC\Documents\GitHub9\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2023\oldili2023.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2023\newili2023.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2023\oldili2023.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2023\NewFeb.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2023\Oldfeb.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2023\april_New_ILI.csv
+C:\Users\kerbergr\Documents\GitHub\MLCompare\MLCompare\bin\Debug\netcoreapp3.1\ex2023\april_Old_ILI.csv

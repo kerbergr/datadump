@@ -1,0 +1,3 @@
+﻿ItemNumber,JointNumber,JointLengthft,DisttoUSGWft,DisttoDSGWft,AbsoluteDistanceft,Feature,ExtInt,Depth,Depthin,Lengthin,Widthin,Oclockhhmm,Comments,PipeType,WTin,PipeGrade,PipeODin,MOP,LongSeam,ERF,SafeBurstPressure,BurstPressure,Latitudedeg,Longitudedeg,Elevationft
+1,10,2.45,,2.45,-1.25,Girth Weld,,,,,,,,Valve,,,8.625,680,,,,,33.88475905,-118.01984561,66.99
+2,10,2.45,0.37,2.07,-0.88,Flange,,,,,,,,Valve,,,8.625,680,,,,,33.88476388,-118.01985035,67.00
